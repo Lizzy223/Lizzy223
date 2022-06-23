@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lizzie
 - 👀 I’m interested in learning and development
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on frontend-related projects
 - 📫 How to reach me. Mail: koladeelizabeth01@gmail.com LinkedIn: https://www.linkedin.com/in/thisebiragirl/
 
