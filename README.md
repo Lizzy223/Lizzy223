@@ -3,18 +3,17 @@
 
 
 <p align="center" style="display: flex;"> 
-  <img src="https://komarev.com/ghpvc/?username=Lizzy223&label=Profile%20views&color=0e75b6&style=flat" alt="Lizzy223" /> 
 
   <a href="mailto:koladeelizabeth01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lizzy223&show_icons=true&locale=en&layout=compact" alt="Lizzy223" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lizzy223" alt="Lizzy223" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lizzy223&show_icons=true&locale=en" alt="Lizzy223" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lizzy223" alt="Lizzy223" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lizzy223&" alt="Lizzy223" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lizzy223" alt="Lizzy223" /></p>
 
 
 - 👋 Hi, I’m Lizzie
