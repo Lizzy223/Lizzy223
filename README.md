@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I’m Lizzie</h1>
-<h3 align="center">Frontend Developer </h3>
+<h1 align="center">Hey there</h1>
 
 
 <p align="center" style="display: flex;"> 
@@ -16,10 +15,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lizzy223" alt="Lizzy223" /></p>
 
 
-- 👋 Hi, I’m Lizzie
+- 👋 Hi, I’m an 0x1 engineer
 - 👀 I’m interested in learning and development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on frontend-related projects
+- 🌱 I’m contributing to open-source projects
+- 💞️ I’m looking to collaborate on web-3  & web-2 projects
 - 📫 How to reach me. Mail: koladeelizabeth01@gmail.com LinkedIn: https://www.linkedin.com/in/thisebiragirl/
 
 
