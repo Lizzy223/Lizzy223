@@ -15,10 +15,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lizzy223" alt="Lizzy223" /></p>
 
 
-- 👋 Hi, I’m an 0x1 engineer
-- 👀 I’m interested in learning and development
-- 🌱 I’m contributing to open-source projects
-- 💞️ I’m looking to collaborate on web-3  & web-2 projects
+- 👋 Hi, 0.1x engineer
+- 👀 Interested in learning and development
+- 🌱 Contributing to open-source projects
+- 💞️ Looking to collaborate on web-3 & web-2 projects
 - 📫 How to reach me. Mail: koladeelizabeth01@gmail.com LinkedIn: https://www.linkedin.com/in/thisebiragirl/
 
 
